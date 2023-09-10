@@ -1,0 +1,5 @@
+﻿Capstone Ideas - Xiaotong Lin
+1. (most interested)
+Build a website to suggest routing and estimate time for Bay Area Rapid Transit (BART), using API from BART
+2. Build a website to show and query Natural Park (or other)  info, using  API from US Federal Data
+3. Build a website to query Best Buy products and sale trending, using API from Best Buy Commerce
